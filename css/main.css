@@ -1,0 +1,46 @@
+.logo-text {
+  font-size: 22px;
+  color: #c78665;
+  font-weight: bold;
+  border: 1px solid #c78665;
+  padding: 10px 20px;
+}
+
+.invitation .weeding_countdown_area {
+  padding-top: 70px;
+  z-index: 0;
+}
+
+.invitation .attending_area {
+  padding-bottom: 70px;
+}
+
+.invitation .gallery_area {
+  padding: 0;
+}
+
+.invitation .attending_area .main_attending_area .popup_box {
+  display: block;
+}
+
+.invitation .gallery_area .single_gallery {
+  width: 100%;
+  height: 560px;
+}
+
+.invitation .invitation-card {
+  background-image: url(../img/invitation/invitation-card.png);
+}
+
+.invitation .gallery_area .boxed_btn3 {
+  bottom: 0;
+  text-align: center;
+  display: block;
+  height: auto;
+  position: absolute;
+  opacity: 0.8;
+}
+
+.footer .footer_top {
+  padding: 40px 0;
+}
