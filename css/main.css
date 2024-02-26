@@ -6,6 +6,14 @@
   padding: 10px 20px;
 }
 
+.slider_bg_1 {
+  background-image: url(../img/banner/home-banner.jpeg);
+}
+
+.slider_area_inner .slider_text {
+  background: rgb(199, 134, 101, 0.7);
+}
+
 .invitation .weeding_countdown_area {
   padding-top: 70px;
   z-index: 0;
@@ -39,6 +47,54 @@
   height: auto;
   position: absolute;
   opacity: 0.8;
+}
+
+.love_story_area .single_lover_story .story_thumb img {
+  border-radius: 50%;
+  width: 247px;
+  height: 247px;
+  object-fit: cover;
+}
+
+/* Gallery Photos */
+.gallery_imag_1 {
+  background-image: url(../img/gallery/htinsharr01.jpeg);
+}
+
+.gallery_imag_2 {
+  background-image: url(../img/gallery/htinsharr02.jpeg);
+}
+
+.gallery_imag_3 {
+  background-image: url(../img/gallery/htinsharr03.jpeg);
+}
+
+.gallery_imag_4 {
+  background-image: url(../img/gallery/htinsharr04.jpeg);
+}
+
+.gallery_imag_5 {
+  background-image: url(../img/gallery/htinsharr05.jpeg);
+}
+
+.gallery_imag_6 {
+  background-image: url(../img/gallery/htinsharr06.jpeg);
+}
+
+.gallery_imag_7 {
+  background-image: url(../img/gallery/htinsharr07.jpeg);
+}
+
+.gallery_imag_8 {
+  background-image: url(../img/gallery/htinsharr08.jpeg);
+}
+
+.gallery_imag_9 {
+  background-image: url(../img/gallery/htinsharr09.jpeg);
+}
+
+.bradcam_bg {
+  background-image: url(../img/banner/home-banner.jpeg);
 }
 
 .footer .footer_top {
