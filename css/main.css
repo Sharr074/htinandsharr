@@ -99,7 +99,8 @@
     padding-bottom: 25px;
   }
 
-  .attending_area {
+  .attending_area, 
+  .invitation .attending_area {
     padding-bottom: 25px;
   }
 
