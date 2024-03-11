@@ -56,7 +56,7 @@
   object-fit: cover;
 }
 
-/* Gallery Photos */
+/* Gallery Page */
 .gallery_imag_1 {
   background-image: url(../img/gallery/htinsharr01.jpeg);
 }
@@ -91,6 +91,12 @@
 
 .gallery_imag_9 {
   background-image: url(../img/gallery/htinsharr09.jpeg);
+}
+
+@media (max-width: 767px) {
+    .gallery_area .section_title {
+      margin-top: 25px;
+  }
 }
 
 .bradcam_bg {
