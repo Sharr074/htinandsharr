@@ -112,6 +112,10 @@
   .contact-section .col-lg-3 .contact-info:first-child {
     margin-top: 25px;
   }
+
+  .contact-section {
+    padding: 25px 0 25px;
+  }
 }
 
 .bradcam_bg {
