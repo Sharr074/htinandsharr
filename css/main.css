@@ -94,16 +94,17 @@
 }
 
 @media (max-width: 767px) {
-    .program_details_area {
-      padding-top: 25px;
-      padding-bottom: 25px;
+  .program_details_area {
+    padding-top: 25px;
+    padding-bottom: 25px;
   }
 
   .attending_area {
     padding-bottom: 25px;
   }
-    .gallery_area .section_title {
-      margin-top: 25px;
+  .gallery_area .section_title, 
+  .contact-section .col-lg-3 .contact-info:first-child
+    margin-top: 25px;
   }
 }
 
