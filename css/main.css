@@ -102,8 +102,13 @@
   .attending_area {
     padding-bottom: 25px;
   }
+
+  .invitation .weeding_countdown_area {
+    padding-top: 25px;
+  }
+
   .gallery_area .section_title, 
-  .contact-section .col-lg-3 .contact-info:first-child
+  .contact-section .col-lg-3 .contact-info:first-child {
     margin-top: 25px;
   }
 }
