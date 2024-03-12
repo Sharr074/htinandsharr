@@ -58,39 +58,39 @@
 
 /* Gallery Page */
 .gallery_imag_1 {
-  background-image: url(../img/gallery/htinsharr01.jpeg);
+  background-image: url(../img/gallery/htinsharr01.jpg);
 }
 
 .gallery_imag_2 {
-  background-image: url(../img/gallery/htinsharr02.jpeg);
+  background-image: url(../img/gallery/htinsharr02.jpg);
 }
 
 .gallery_imag_3 {
-  background-image: url(../img/gallery/htinsharr03.jpeg);
+  background-image: url(../img/gallery/htinsharr03.jpg);
 }
 
 .gallery_imag_4 {
-  background-image: url(../img/gallery/htinsharr04.jpeg);
+  background-image: url(../img/gallery/htinsharr04.jpg);
 }
 
 .gallery_imag_5 {
-  background-image: url(../img/gallery/htinsharr05.jpeg);
+  background-image: url(../img/gallery/htinsharr05.jpg);
 }
 
 .gallery_imag_6 {
-  background-image: url(../img/gallery/htinsharr06.jpeg);
+  background-image: url(../img/gallery/htinsharr06.jpg);
 }
 
 .gallery_imag_7 {
-  background-image: url(../img/gallery/htinsharr07.jpeg);
+  background-image: url(../img/gallery/htinsharr07.jpg);
 }
 
 .gallery_imag_8 {
-  background-image: url(../img/gallery/htinsharr08.jpeg);
+  background-image: url(../img/gallery/htinsharr08.jpg);
 }
 
 .gallery_imag_9 {
-  background-image: url(../img/gallery/htinsharr09.jpeg);
+  background-image: url(../img/gallery/htinsharr09.jpg);
 }
 
 @media (max-width: 767px) {
@@ -121,7 +121,7 @@
 }
 
 .bradcam_bg {
-  background-image: url(../img/banner/home-banner.jpeg);
+  background-image: url(../img/banner/home-banner.jpg);
 }
 
 .footer .footer_top {
